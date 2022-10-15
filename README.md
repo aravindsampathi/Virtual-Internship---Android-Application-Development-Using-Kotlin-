@@ -2,7 +2,7 @@ Virtual-Internship---Grocery Android-Application-Development-Using-Kotlin
 ==================================
 Virtual Internship - Android Application Development Using Kotlin by SmartBridge & GOOGLE in collaboration with AICTE
 
-Name: [Aravind](https://github.com/noobshubham)
+Name: [Aravind Sampathi](https://github.com/noobshubham)
 ------------
 
 Presenting the project Nearby Store & Grocery List to you!
