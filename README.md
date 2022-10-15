@@ -1,4 +1,4 @@
-SPSGP-65269-Virtual-Internship---Android-Application-Development-Using-Kotlin
+Virtual-Internship---Grocery Android-Application-Development-Using-Kotlin
 ==================================
 Virtual Internship - Android Application Development Using Kotlin by SmartBridge & GOOGLE in collaboration with AICTE
 
